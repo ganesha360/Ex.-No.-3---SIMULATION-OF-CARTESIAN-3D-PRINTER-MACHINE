@@ -47,21 +47,18 @@
 ###   2.	Move the y-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the y-axis assembly.
 ###   3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
-## Expected Output:
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
-## Output:
-### X Axis Assembly
-![Screenshot 2024-10-14 235002](https://github.com/user-attachments/assets/251c280d-5977-43fb-bc0a-55018323aa9c)
-### Y Axis Assembly
-![Screenshot 2024-10-15 000155](https://github.com/user-attachments/assets/8eaa23c5-a28b-4907-b305-eb717ef49d76)
-### Z Axis Assembly
-![Screenshot 2024-10-16 222141](https://github.com/user-attachments/assets/bb04bab9-99d0-4e4d-b9f8-b9e4b45fa465)
-### Completed Assembly
-![Screenshot 2024-10-16 221937](https://github.com/user-attachments/assets/6c3c625a-81d4-4592-9764-0310d72d356b)
-### Playing with Axis
-![Screenshot 2024-10-14 230413](https://github.com/user-attachments/assets/17ee0936-43af-4480-a5e4-5a4bd8562d64)
+![image](https://github.com/SadhanaShreee/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144517664/8baed824-a260-47c0-b3eb-c812da2c5864)
 
+![image](https://github.com/SadhanaShreee/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144517664/40cb2cd0-9be0-4185-9636-87e548cb5354)
+
+![image](https://github.com/SadhanaShreee/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144517664/c0767f0f-4910-4e82-8784-181f20d0e31c)
+
+![image](https://github.com/SadhanaShreee/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144517664/a3d3a101-84a4-4b09-b56a-149825918803)
+
+![image](https://github.com/SadhanaShreee/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144517664/f57bd9d7-4fc2-4f96-829a-0c76709525ad)
+
+![image](https://github.com/SadhanaShreee/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144517664/d471860c-7e66-4241-a76a-fb0701ebd547)
 
 ### Name: GANESH R
 ### Register Number: 212222240029
